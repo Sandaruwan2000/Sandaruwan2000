@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Lahiru Sandaruwan 👋
 
 <!--
 **Sandaruwan2000/Sandaruwan2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
