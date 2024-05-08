@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lahiru Sandaruwan</h1>
 <h3 align="center">Passionate Full-Stack Developer From Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandaruwan2000&label=Profile%20views&color=0e75b6&style=flat" alt="sandaruwan2000" /> </p>
+
 
 <div align="center">
 <img  src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" height="300" width="400"   />
 </div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandaruwan2000&label=Profile%20views&color=0e75b6&style=flat" alt="sandaruwan2000" /> </p>
 
 - 🌱 I’m currently learning Flutter, Spring Boot, and Machine Learning.
 - 📫 How to reach me **lahirusandharuwan109@gmail.com**
