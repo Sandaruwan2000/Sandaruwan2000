@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandaruwan2000&label=Profile%20views&color=0e75b6&style=flat" alt="sandaruwan2000" /> </p>
 
-<h1 align="left">About me</h1>
+<h2 align="left">About me</h1>
 
 
 - 🌱 I’m currently learning Flutter, Spring Boot, and Machine Learning.
