@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/lahiru-jayawardana-705402266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahiru" height="32" width="40" /></a>
 <a href="https://www.hackerrank.com/lahirusandharuw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lahirusandharuw1" height="30" width="40" /></a>
-<a href="https://www.sololearn.com/en/profile/28393565" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.granatusventures.com%2Fportfolio-1%2Fjnjmokw2c1gxc8mcg6meqtmxo8jz2p&psig=AOvVaw2O0_EcYiukHVzB68p0CTDr&ust=1715365666521000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCqqpuZgYYDFQAAAAAdAAAAABAE" alt="Lahiru sandaruwan" height="30" width="40" /></a>
+<a href="https://www.sololearn.com/en/profile/28393565" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/6320878f1e36fa673d70c589/89866420-93cb-4a44-a93c-86246efe71c5/logos+for+granatus+portfolio_AM-44.png" alt="Lahiru sandaruwan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
