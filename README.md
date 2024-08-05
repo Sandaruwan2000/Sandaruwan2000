@@ -19,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lahiru-jayawardana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahiru" height="30" width="40" /></a>
+<a href="https://lahirujayawardana.netlify.app/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fsearch%2Fprojects%2Fportfolio-preview&psig=AOvVaw0BkoydMnyZCq24-DfUZpoi&ust=1722968930622000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDT9dG93ocDFQAAAAAdAAAAABAE" alt="lahiru" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lahirusandharuw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lahirusandharuw1" height="30" width="40" /></a>
 <a href="https://www.sololearn.com/en/profile/28393565" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/6320878f1e36fa673d70c589/89866420-93cb-4a44-a93c-86246efe71c5/logos+for+granatus+portfolio_AM-44.png" alt="Lahiru sandaruwan" height="70" width="100" /></a>
   <a href="https://www.naukri.com/code360/profile/03366e2a-b219-4dff-990d-204a348cabdc" target="blank"><img align="center" src="https://www.financialexpress.com/wp-content/uploads/2022/06/coding-ninjas.png" alt="lahiru" height="30" width="60" /></a>
