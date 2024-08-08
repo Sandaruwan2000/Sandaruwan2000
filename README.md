@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lahiru-jayawardana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahiru" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lahiru-jayawardana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="Linkedin Profile" alt="lahiru" height="30" width="40" /></a>
 <a href="https://lahirujayawardana.netlify.app/" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/projects/404/49f28e189617081.Y3JvcCwxMDA2LDc4NywxOTYsMA.jpg" alt="lahiru" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lahirusandharuw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lahirusandharuw1" height="30" width="40" /></a>
 <a href="https://www.sololearn.com/en/profile/28393565" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/6320878f1e36fa673d70c589/89866420-93cb-4a44-a93c-86246efe71c5/logos+for+granatus+portfolio_AM-44.png" alt="Lahiru sandaruwan" height="70" width="100" /></a>
