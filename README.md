@@ -234,8 +234,12 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandaruwan2000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=0E75B6&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandaruwan2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9" alt="Top Languages"/>
+<a href="https://github.com/sandaruwan2000">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sandaruwan2000&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=0E75B6&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/sandaruwan2000">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandaruwan2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1a73e8&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages"/>
+</a>
 
 <br/>
 
