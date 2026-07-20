@@ -1,33 +1,308 @@
-<h1 align="center">Hi 👋, I'm Lahiru Sandaruwan</h1>
-<h3 align="center">Passionate Full-Stack Developer From Sri Lanka</h3>
-
-
-
 <div align="center">
-<img src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" height="300" width="400"   />
-</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandaruwan2000&label=Profile%20views&color=0e75b6&style=flat" alt="sandaruwan2000" /> </p>
+# Hi 👋 I'm Lahiru Sandaruwan
 
-<h2 align="left">About me</h1>
+### Associate Software Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast | AI/ML Explorer
 
+Building scalable web applications, cloud solutions, automation tools, and intelligent systems.
 
-- 🌱 I’m currently learning Flutter, Spring Boot, and Machine Learning.
-- 📫 How to reach me **lahirusandharuwan109@gmail.com**
-- 🎯 I'm focused on creating innovative solutions.
+<p align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lahiru-jayawardana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="Linkedin Profile" alt="lahiru" height="30" width="40" /></a>
-<a href="https://lahirujayawardana.netlify.app/" target="blank"><img align="center" src="https://mir-s3-cdn-cf.behance.net/projects/404/49f28e189617081.Y3JvcCwxMDA2LDc4NywxOTYsMA.jpg" title="PortPolio Website" alt="lahiru" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lahirusandharuw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="Hackerrank Profile" alt="lahirusandharuw1" height="30" width="40" /></a>
-<a href="https://www.sololearn.com/en/profile/28393565" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/6320878f1e36fa673d70c589/89866420-93cb-4a44-a93c-86246efe71c5/logos+for+granatus+portfolio_AM-44.png" title="Sololearn Profile" alt="Lahiru sandaruwan" height="70" width="100" /></a>
-  <a href="https://www.naukri.com/code360/profile/03366e2a-b219-4dff-990d-204a348cabdc" target="blank"><img align="center" src="https://www.financialexpress.com/wp-content/uploads/2022/06/coding-ninjas.png" title="Coding Ninjas Profile" alt="lahiru" height="30" width="60" /></a>
+<a href="https://www.linkedin.com/in/lahiru-jayawardana/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://lahirujayawardana.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="mailto:lahirusandharuwan109@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=sandaruwan2000&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandaruwan2000&show_icons=true&locale=en" alt="sandaruwan2000" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandaruwan2000&" alt="sandaruwan2000" /></p>
+
+---
+
+# 👨‍💻 About Me
+
+I'm an **Associate Software Engineer from Sri Lanka** passionate about building modern software solutions using **Full-Stack Development, Cloud Computing, DevOps, and Artificial Intelligence**.
+
+I enjoy designing systems that are:
+
+- 🚀 Scalable
+- ☁️ Cloud-native
+- 🔐 Secure
+- ⚡ High-performance
+- 🤖 Intelligent
+
+
+Currently focusing on:
+
+- Artificial Intelligence & Machine Learning
+- Cloud Architecture
+- DevOps Automation
+- Microservices Architecture
+- Developer Productivity Tools
+
+
+---
+
+# 💼 Professional Experience
+
+### Associate Software Engineer
+
+Working on enterprise-level applications with focus on:
+
+- Developing scalable frontend applications using Angular
+- Designing RESTful APIs and backend services
+- Building reusable software components
+- Implementing Role-Based Access Control (RBAC)
+- Improving application security and performance
+- Working with AWS cloud infrastructure
+- Creating CI/CD automation workflows
+- Containerizing applications using Docker
+
+
+---
+
+# ☁️ Cloud & DevOps Experience
+
+Experienced with:
+
+- AWS Cloud Services
+- Docker Containerization
+- GitHub Actions CI/CD
+- Jenkins Automation
+- Terraform Infrastructure as Code
+- Linux Administration
+- Application Monitoring
+- Cloud Cost Optimization
+
+
+Architecture experience:
+
+```
+Frontend
+   |
+Angular Application
+   |
+API Gateway / Load Balancer
+   |
+Microservices
+   |
+Docker Containers
+   |
+AWS Cloud Infrastructure
+```
+
+
+---
+
+# 🤖 Artificial Intelligence & Machine Learning
+
+I am passionate about using AI/ML to create intelligent applications.
+
+Areas I am exploring:
+
+- 🧠 Machine Learning Algorithms
+- 🔥 Deep Learning
+- 👁️ Computer Vision
+- 🗣️ Natural Language Processing
+- 🤖 Generative AI & LLM Applications
+- 📊 Data Analysis
+- ☁️ Machine Learning on Cloud Platforms
+- 🚀 MLOps
+
+
+My goal:
+
+```
+Software Engineering
+        +
+Cloud Computing
+        +
+Artificial Intelligence
+
+        =
+Intelligent Scalable Applications
+```
+
+
+---
+
+# 🛠️ Tech Stack
+
+
+## Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,kotlin"/>
+
+</p>
+
+
+## Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,tailwind"/>
+
+</p>
+
+
+## Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+
+</p>
+
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,githubactions"/>
+
+</p>
+
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite"/>
+
+</p>
+
+
+## AI / ML Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
+</p>
+
+
+---
+
+# 📚 Currently Learning
+
+- 🤖 Machine Learning with Python
+- 🧠 Deep Learning Fundamentals
+- 🔥 TensorFlow & PyTorch
+- ☁️ AWS Machine Learning Services
+- 🚀 MLOps Practices
+- ☸️ Kubernetes Advanced Concepts
+- 🏗️ Cloud Architecture
+
+
+---
+
+# 🚀 Featured Projects
+
+## ☁️ Cloud Monitoring & Cost Optimization Platform
+
+- AWS based monitoring solution
+- Automated cloud cost analysis
+- Lambda based automation
+
+
+## ⚙️ AI Powered DevOps Assistant (Building)
+
+- Generate CI/CD workflows
+- Analyze deployment failures
+- Suggest infrastructure improvements
+- Automate DevOps tasks using AI
+
+
+## 🏥 Healthcare Management Platform
+
+- Enterprise healthcare application
+- Secure user management
+- Role-based access control
+- Real-time system updates
+
+
+## 🌱 AI Agriculture Solution (Future)
+
+Exploring AI-powered agriculture solutions:
+
+- Crop disease detection
+- Smart fertilizer recommendation
+- Computer vision based monitoring
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sandaruwan2000&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandaruwan2000&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandaruwan2000&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+# 🎯 Career Goals
+
+- Build AI-powered software solutions
+- Become a Cloud & DevOps specialist
+- Master Machine Learning Engineering
+- Develop scalable SaaS platforms
+- Contribute to open-source projects
+
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/lahiru-jayawardana/">
+LinkedIn
+</a>
+
+&nbsp;
+
+<a href="https://lahirujayawardana.netlify.app/">
+Portfolio
+</a>
+
+&nbsp;
+
+<a href="mailto:lahirusandharuwan109@gmail.com">
+Email
+</a>
+
+</p>
+
+
+---
+
+<div align="center">
+
+### ⭐ Code • Cloud • AI • Innovation
+
+</div>
