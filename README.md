@@ -157,8 +157,10 @@ Building enterprise-grade applications end to end:
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 
 <!-- ============================================================= -->
-<!--                        PROJECTS                               -->
+<!--   FEATURED PROJECTS  (hidden — uncomment the block below      -->
+<!--   to show it again)                                           -->
 <!-- ============================================================= -->
+<!--
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="left" />
 
 ## &nbsp;Featured Projects
@@ -211,6 +213,7 @@ Crop disease detection, smart fertilizer recommendation, and computer-vision mon
 </table>
 
 <br/>
+-->
 
 <!-- ============================================================= -->
 <!--                       ARCHITECTURE                            -->
