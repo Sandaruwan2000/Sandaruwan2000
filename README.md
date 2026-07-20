@@ -34,9 +34,7 @@
 <!-- ============================================================= -->
 <!--                          ABOUT                                -->
 <!-- ============================================================= -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium%20Skin%20Tone.png" width="32" align="left" />
-
-## &nbsp;About Me
+## 👨‍💻 About Me
 
 <img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
@@ -66,9 +64,7 @@ Lahiru Sandaruwan:
 <!-- ============================================================= -->
 <!--                        EXPERIENCE                             -->
 <!-- ============================================================= -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30" align="left" />
-
-## &nbsp;Professional Experience
+## 💼 Professional Experience
 
 <table>
 <tr><td>
@@ -103,9 +99,7 @@ Building enterprise-grade applications end to end:
 <!-- ============================================================= -->
 <!--                        TECH STACK                             -->
 <!-- ============================================================= -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" align="left" />
-
-## &nbsp;Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -161,9 +155,7 @@ Building enterprise-grade applications end to end:
 <!--   to show it again)                                           -->
 <!-- ============================================================= -->
 <!--
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="left" />
-
-## &nbsp;Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -218,9 +210,7 @@ Crop disease detection, smart fertilizer recommendation, and computer-vision mon
 <!-- ============================================================= -->
 <!--                       ARCHITECTURE                            -->
 <!-- ============================================================= -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Building%20Construction.png" width="30" align="left" />
-
-## &nbsp;Architecture I Build
+## 🏗️ Architecture I Build
 
 ```mermaid
 flowchart LR
@@ -240,9 +230,7 @@ flowchart LR
 <!-- ============================================================= -->
 <!--                      GITHUB STATS                             -->
 <!-- ============================================================= -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" align="left" />
-
-## &nbsp;GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -268,9 +256,7 @@ flowchart LR
 <!-- ============================================================= -->
 <!--                          GOALS                                -->
 <!-- ============================================================= -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" width="30" align="left" />
-
-## &nbsp;Career Goals
+## 🎯 Career Goals
 
 <div align="center">
 
